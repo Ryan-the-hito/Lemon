@@ -10,6 +10,10 @@
 
 ![Why](https://github.com/Ryan-the-hito/Lemon/raw/main/img/why.gif)
 
+## Introductions to the main windows
+
+![Main](https://github.com/Ryan-the-hito/Lemon/raw/main/img/main.png)
+
 ## Improvements and versions
 ### Improvements
 ### Versions
