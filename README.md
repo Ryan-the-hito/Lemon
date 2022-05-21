@@ -15,6 +15,7 @@
 ## Introductions to the main windows
 
 ![Main](https://github.com/Ryan-the-hito/Lemon/raw/main/img/main.png)
+![window2](https://github.com/Ryan-the-hito/Lemon/raw/main/img/window2.png)
 
 ## Improvements and versions
 ### Improvements
