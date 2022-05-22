@@ -22,6 +22,12 @@
 - Add a customization function for users to define what word would come out instead of only "*".
 - Add a function to define some customized websites for users to choose from.
 ### Versions
+#### v1.0.0 (May 23 2022)
+- Added a window
+- Added a function to erase folder path totally.
+- Added a function to customize your replacement.
+- Added a function to customize websites that this .js script applies to.
+
 #### v0.0.2 (May 22 2022)
 - Added a window and a function to remove words from the list.
 - Added a function to check duplicated words on the list.
