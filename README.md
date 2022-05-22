@@ -27,6 +27,7 @@
 - Added a function to erase folder path totally.
 - Added a function to customize your replacement.
 - Added a function to customize websites that this .js script applies to.
+- Changed all straight corner window to rounded corner.
 
 #### v0.0.2 (May 22 2022)
 - Added a window and a function to remove words from the list.
