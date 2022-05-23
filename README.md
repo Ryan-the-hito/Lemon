@@ -22,6 +22,10 @@
 - Add a customization function for users to define what word would come out instead of only "*".
 - Add a function to define some customized websites for users to choose from.
 ### Versions
+#### v1.1.0 (May 23 2022)
+- Bug fix: The website customization does not save properly.
+- Now the file for word customization and website customization are stored in wordlist instead of within the app, which means you can easily redirect to your target folder path and update the application without worrying about losing data.
+
 #### v1.0.0 (May 23 2022)
 - Added a window
 - Added a function to erase folder path totally.
