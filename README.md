@@ -19,8 +19,8 @@
 
 ## Improvements and versions
 ### Improvements
-- [ ] ~~Add a customization function for users to define what word would come out instead of only "*".~~
-- [ ] ~~Add a function to define some customized websites for users to choose from.~~
+- [X] ~~Add a customization function for users to define what word would come out instead of only "*".~~
+- [X] ~~Add a function to define some customized websites for users to choose from.~~
 ### Versions
 #### v1.1.0 (May 23 2022)
 - Bug fix: The website customization does not save properly.
