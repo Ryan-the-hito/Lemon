@@ -16,6 +16,7 @@
 
 ![Main](https://github.com/Ryan-the-hito/Lemon/raw/main/img/main.png)
 ![window2](https://github.com/Ryan-the-hito/Lemon/raw/main/img/window2.png)
+![window3](https://github.com/Ryan-the-hito/Lemon/blob/main/img/window3.png)
 
 ## Improvements and versions
 ### Improvements
